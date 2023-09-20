@@ -1,0 +1,2 @@
+Slutet närmar sig, förbered er för kaos... Eller överkom dystopibilder igenom att få klarare bild över alla destruktiva fenomen! Denna blogg är främst är den dumpningskanister för tankar och ämnen som jag anser borde få synlighet i samhället, resurser och knutpunkter i vår ömma kropp som borde behandlas. Instinkter och tankar kommer presenteras i diverse format, dock troligtvis med ett fokus på studier, andlighet, politik och även ibland matlagning. Välkommen och läsa bloggen som varken lämnar dig i hunger eller i välbehag - men kanske som mera klarsynt och inspirerad!
+

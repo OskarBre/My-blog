@@ -1,0 +1,21 @@
+{{ define "main" }}
+
+<div class="flex-container container">
+    <img src="/images/profilePic.svg" alt="This is an image of an angry chef">
+        <h1>{{ .Site.Title}}</h1>
+            {{ .Content }}
+        <div>
+            <h2 style="padding: 60px 10px 20px 10px;">Inlägg</h2>
+        </div>
+            {{ range .Pages }}
+        <div>
+            <a class="yb" href="{{ .Permalink }}">{{ .Title }}</a>
+        </div>
+
+        <div><h1>Hello</h1></div>
+        {{ end }} 
+</div>
+{{ end }}
+
+<!-- Writing a random comment -->
+     
