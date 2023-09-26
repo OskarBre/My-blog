@@ -7,7 +7,7 @@
             
         <h3 id="pgs">Inlägg</h3>
             <div id="pg">{{ range .Pages}}
-                <div style="padding: 4px;"><a class="yb" href="{{ .Permalink }}">{{ .Title }}
+                <div><a class="yb" href="{{ .Permalink }}">{{ .Title }}
                     <span class="smaller">{{ dateFormat "2006-01-02" .Date }}</a></span></div>
             {{ end }} </div>
     <div id = "empty"></div>
