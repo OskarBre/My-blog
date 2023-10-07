@@ -1,8 +1,12 @@
 +++
-title = 'D'
+title = 'Härlig är jorden...'
 date = 2023-09-21T13:03:16+02:00
 draft = false
 +++
 
 
-testar D text
+... härlig är guds himmel... Men ej denna blogg! Ifall du upplever att den sådan är så gratulerar jag dig, nämligen du ser fräscha, undanträngda och kontroversiella idéer och tankar som ditt paradis! Varav den normala bilden av ett paradis är någonting vackert som de flesta medvetet strävar att komma till, är det få som inser att vägen dit kräver att man inte döljer sitt huvud i sanden för verkligheten. Jag har länge drömt om att upprätthålla en platform där jag kan bara "blasta" insikter som under dagars lopp har sedimenterats och formats i mig, som antagligen pekar mot dolda sanningar som en "Matti eller Maija Meikäläinen" inte läser från sina kvällstidningar. Jag älskar att finna insikter i mitt liv och se människor lysa upp av fakta som de inte kunde tänka sig veta tidigare. Att göra folk osäkra igenom att dela dem en bit sanning som ej passar i deras mentala modeller om verkligheten är ett av de mest tillfredsställande känslorna, en slags moraliskt accepterbar sadism. Men så är det, man utvecklas inte utan en känsla av smärta och en nedtärning av ens ego, liksom inte ens muskelstyrka, motståndskraft eller sociala förmågor av godartad övning. Att bli mera medveten om yttre verklighetens dolda sanningar och ens inre liv ger förr eller senare upphov till ett tillstånd, där smärta må existera men lidandet är mimimerat. Detta tillstånd vill jag dela vidare, nämligen jag anser att vi idag känner för lite smärta och för mycket lidande. Det ideala är det motsatta, ett liv som är meningsfullt, trots eventuella smärtor. Lidandet är aldrig meningsfullt.
+
+Temor för inlägg är filosofi, psykologi, naturvetenskaper, religion, livet, politik och även ibland matlagning. Namnet på bloggen härstammar ej från djävulskocken mr. Ramsay, utan från kockars arbete överlag. De tar råa ingredienser från naturen, tillreder dem och skapar portioner av dem - som var och en får sedan njuta av. Jag anser mig göra lite samma, och bäst av allt så är mina portioner gratis! Och som namnet säger, tenderar jag vara minst passionerad, förstås samtidigt så diskret som möjligt, likt en "textbook" finne. Sätt dig alltså bekvämt och klicka på linkar och förbered dig på att bli dragen ur dina rötter. Ifall artiklarna inte duger kan du alltid be om pengarna tillbaka (förlorad tid kan jag dock inte ersätta, hehe...).
+
+Smaklig måltid!
