@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arga Kocken</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Arga Kocken</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv</language><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sanna Marin</title>
+      <link>https://example.org/sanna-marin/</link>
+      <pubDate>Sun, 24 Sep 2023 17:56:03 +0200</pubDate>
+      
+      <guid>https://example.org/sanna-marin/</guid>
+      <description>Inledning Jag tror man inte överdriver om man påstod att Sanna Marin är en av de mest inflytande personer som under senaste åren dykit upp i vårt land. Karismatisk, vacker, trendsättare, vassordad, festare, moder&amp;hellip; finns det någonting som Marin inte är? Sanna verkar faktiskt vara en person som lever livet, och de flesta av oss finner något i henne som vi gillar eller ogillar&amp;hellip; kritik som riktats emot henne har främst varit p.</description>
+    </item>
+    
+    <item>
+      <title>D</title>
+      <link>https://example.org/d/</link>
+      <pubDate>Thu, 21 Sep 2023 13:03:16 +0200</pubDate>
+      
+      <guid>https://example.org/d/</guid>
+      <description>testar D text</description>
+    </item>
+    
+  </channel>
+</rss>
